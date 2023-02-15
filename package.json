@@ -1,0 +1,17 @@
+{
+  "name": "sampletsproject",
+  "version": "1.0.0",
+  "description": "Sample TS Project for Learning TS",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node --experimental-modules ./newfile.js"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "FAETHFLEX",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
